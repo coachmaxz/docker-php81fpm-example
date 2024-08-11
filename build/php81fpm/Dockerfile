@@ -1,4 +1,4 @@
-FROM php:8.1.27-fpm
+FROM php:8.1.29-fpm
 LABEL maintainer="Eakkabin Jaikeawma <eakakbin.max@outlook.com>"
 
 ARG PSR_VERSION=1.2.0
